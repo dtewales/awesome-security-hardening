@@ -377,6 +377,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 
+### DNS
+
+- [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS configuration and provides AI-powered fix suggestions.
+
 ## Tools to apply security hardening
 
 - [DevSec Hardening Framework](https://dev-sec.io/) - a framework to automate hardening of OS and applications, using Chef, Ansible and Puppet
